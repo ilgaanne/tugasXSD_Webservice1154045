@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datapasien  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pasien.xsd">
+	<pasien rawat="ya">
+		<kodepasien>k123</kodepasien>
+		<nama>Joko Suseno</nama>
+		<umur>25</umur>
+		<jenkel>Laki-laki</jenkel>
+		<alamat>sarijadi nomor 1</alamat>
+		<no_hp>08988434366</no_hp>
+		<email>joko@ilga.com</email>
+		<penyakit>Tifus</penyakit>
+		<penanggung ortu="ya">
+			<namapenanggung>indriani</namapenanggung>
+			<telepon>08176655281</telepon>
+			<alamatpen>sukasari nomor 13</alamatpen>
+		</penanggung> 
+	</pasien>
+	<pasien rawat="tidak">
+		<kodepasien>k2345</kodepasien>
+		<nama>Maria Fatima</nama>
+		<umur>15</umur>
+		<jenkel>perempuan</jenkel>
+		<alamat>setiabudi no 113</alamat>
+		<no_hp>08975637291</no_hp>
+		<email>marry@ilga.com</email>
+		<penyakit>demam</penyakit>
+		<penanggung ortu="ya">
+			<namapenanggung>Rini Sumar</namapenanggung>
+			<telepon>08152619179</telepon>
+			<alamatpen>setiabudi no 113</alamatpen>
+		</penanggung> 
+	</pasien>
+	<pasien rawat="ya">
+		<kodepasien>k123</kodepasien>
+		<nama>Sella Ijanah</nama>
+		<umur>23</umur>
+		<jenkel>Perempuan</jenkel>
+		<alamat>jl.cimahai no 38</alamat>
+		<no_hp>08988434366</no_hp>
+		<email>sellamarr@ilga.com</email>
+		<penyakit>Demam Berdarah</penyakit>
+		<penanggung ortu="tidak">
+			<namapenanggung>Jimmy</namapenanggung>
+			<telepon>08179855443</telepon>
+			<alamatpen>Buah batu no 74</alamatpen>
+		</penanggung> 
+	</pasien>
+	<pasien rawat="tidak">
+		<kodepasien>k2458</kodepasien>
+		<nama>Setiyo Aji</nama>
+		<umur>30</umur>
+		<jenkel>Laki-laki</jenkel>
+		<alamat>sarijadi nomor 1</alamat>
+		<no_hp>08988434366</no_hp>
+		<email>ajiset@ilga.com</email>
+		<penyakit>Rematik</penyakit>
+		<penanggung ortu="tidak">
+			<namapenanggung>Kusuma Diningtyas</namapenanggung>
+			<telepon>08174839221</telepon>
+			<alamatpen>jl.Ganesha no 5</alamatpen>
+		</penanggung> 
+	</pasien>
+	<pasien rawat="ya">
+		<kodepasien>k1246</kodepasien>
+		<nama>Melati Sukma</nama>
+		<umur>10</umur>
+		<jenkel>Perempuan</jenkel>
+		<alamat>Jl.chimapelas no 27</alamat>
+		<no_hp>08988434366</no_hp>
+		<email>sukma@ilga.com</email>
+		<penyakit>Pendarahan otak</penyakit>
+		<penanggung ortu="ya">
+			<namapenanggung>Ari Agung Caroko</namapenanggung>
+			<telepon>081772995546</telepon>
+			<alamatpen>Jl.chimapelas no 27</alamatpen>
+		</penanggung> 
+	</pasien>
+</datapasien>
